@@ -1,4 +1,5 @@
 
+
 import { Routes, Route } from 'react-router'; // Import React Router
 
 import NavBar from './components/NavBar/NavBar';
